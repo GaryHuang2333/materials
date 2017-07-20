@@ -1,0 +1,22 @@
+1. Error when start ng server
+C:\Users\junhong.a.huang>ng serve --open
+The "@angular/compiler-cli" package was not properly installed.
+Error: The "@angular/compiler-cli" package was not properly installed.
+    at Object.<anonymous> (C:\Users\junhong.a.huang\AppData\Roaming\npm\node_modules\@angular\cli\node_modules\@ngtools\webpack\src\index.js:14:11)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (C:\Users\junhong.a.huang\AppData\Roaming\npm\node_modules\@angular\cli\tasks\eject.js:10:19)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    
+    
